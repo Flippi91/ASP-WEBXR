@@ -1,0 +1,19 @@
+{
+  "name": "asp-gian-carlo-delphis-threejs-webxr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lil-gui": "^0.19.1",
+    "three": "^0.160.0",
+    "three-orbitcontrols": "^2.110.3",
+    "vite": "^5.0.11"
+  }
+}
